@@ -9,3 +9,5 @@ You can install this directly into Chrome if you enable Developer Mode and load 
 - Select text
 - Right click to open Context Menu
 - Select the Takoboto option
+
+![](UseExample.gif)
